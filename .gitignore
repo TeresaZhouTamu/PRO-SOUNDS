@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.pyc
+*.pyo
+*.sav
+*.pt
+*.npy
+*.pdf
+*.Rhistory
+*.ckpt
+*.pt
+*.pth
