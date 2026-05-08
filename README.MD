@@ -32,7 +32,7 @@ Three uncertainty-aware backbones are currently implemented:
 - Flexible Evidential Deep Learning (FEDL)
 - Evidential Deep Learning (EDL)
 
-Pretrained surrogate models can be downloaded separately.
+Pretrained surrogate models can be downloaded separately (https://drive.google.com/drive/folders/10OX0OFinP4xOHh2fH8_WKhKlvKDOtGTR?usp=share_link).
 
 Code for training surrogate models on custom datasets is provided in:
 
