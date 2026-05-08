@@ -53,7 +53,7 @@ if __name__ == "__main__":
     parser.add_argument('--device', type=str, default="cuda", help="cuda or cpu")
     parser.add_argument('--uncertainty_reweighted', action='store_true', help='Enable to use weighted steering vectors.')
     
-    parser.add_argument('--uncertainty_type', type=str, choices=['total', 'AU', 'EU', 'Zscore'], default='total', 
+    parser.add_argument('--uncertainty_type', type=str, choices=['total', 'AU', 'EU'], default='total', 
                         help="Type of uncertainty used in vector generation.")
 
     parser.add_argument('--property', type=str, required=True, help="Property name (e.g., 'immunog').")
